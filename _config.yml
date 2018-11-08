@@ -1,5 +1,5 @@
 # main text of home
-name: Jane Doe
+name: Alex Ahmed
 bio: A Girl who travels the world eating noodles
 
 # twitter summary info
@@ -7,14 +7,14 @@ description: A blog about technology and stuff related
 
 picture: assets/images/picture.jpg
 
-url: http://koppl.in/violet
+url: https://ozzmotic.github.io/me
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-email: me@jane.doe
+# facebook: myfacebook
+twitter: WomensFormula
+github: ozzmotic
+email: ahmed.al@husky.neu.edu
 
 gems:
   - jekyll-seo-tag
